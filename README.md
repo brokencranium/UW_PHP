@@ -1,2 +1,2 @@
-UW_PHP
+UW_PHP course
 ======
