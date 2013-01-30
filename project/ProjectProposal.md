@@ -26,11 +26,11 @@ What problem does this project solve
 
 What technical aspects will be covered
 ============================================
-* PHP will be used as a server side scripting language.
-  * Authentication.
-  * Connectivity to MySql.
-  * Retrieveing data from the database.
-  * Dynamically filling the data for the webpages.
-  * Dynamically triggering different webpages based on the uer input.
+- PHP will be used as a server side scripting language.
+  - Authentication.
+  - Connectivity to MySql.
+  - Retrieveing data from the database.
+  - Dynamically filling the data for the webpages.
+  - Dynamically triggering different webpages based on the uer input.
 - Java script will be used as a client side scripting language.
 - MySql will be used for database.
