@@ -32,6 +32,5 @@ What technical aspects will be covered
   -Retrieveing data from the database.
   -Dynamically filling the data for the webpages.
   -Dynamically triggering different webpages based on the uer input.
-  -...
 - Java script will be used as a client side scripting language.
 - MySql will be used for database.
