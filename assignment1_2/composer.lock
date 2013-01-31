@@ -238,12 +238,12 @@
             "source": {
                 "type": "git",
                 "url": "git://github.com/sebastianbergmann/phpunit.git",
-                "reference": "0a9b42c743066b45e3f7b923153e0c0111d1e3d4"
+                "reference": "6937c46a4bb8b0ee6dc05e8d35b0c5bf6cbb7cfc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/sebastianbergmann/phpunit/archive/0a9b42c743066b45e3f7b923153e0c0111d1e3d4.zip",
-                "reference": "0a9b42c743066b45e3f7b923153e0c0111d1e3d4",
+                "url": "https://github.com/sebastianbergmann/phpunit/archive/6937c46a4bb8b0ee6dc05e8d35b0c5bf6cbb7cfc.zip",
+                "reference": "6937c46a4bb8b0ee6dc05e8d35b0c5bf6cbb7cfc",
                 "shasum": ""
             },
             "require": {
@@ -255,17 +255,17 @@
                 "phpunit/php-file-iterator": ">=1.3.1",
                 "phpunit/php-text-template": ">=1.1.1",
                 "phpunit/php-code-coverage": ">=1.2.1",
-                "phpunit/php-timer": ">=1.0.2",
                 "phpunit/phpunit-mock-objects": ">=1.2.0,<1.3.0",
-                "symfony/yaml": ">=2.1.0,<2.2.0"
+                "symfony/yaml": ">=2.1.0,<2.2.0",
+                "phpunit/php-timer": ">=1.0.2,<1.1.0"
             },
             "suggest": {
                 "ext-json": "*",
                 "ext-simplexml": "*",
                 "ext-tokenizer": "*",
-                "phpunit/php-invoker": ">=1.1.0"
+                "phpunit/php-invoker": ">=1.1.0,<1.2.0"
             },
-            "time": "2013-01-15 08:15:29",
+            "time": "2013-01-30 06:34:58",
             "bin": [
                 "composer/bin/phpunit"
             ],

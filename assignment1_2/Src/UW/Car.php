@@ -10,8 +10,8 @@ namespace UW;
 /**
 *Imports vehicle class and the vehicle interface
 */
-require_once('Vehicle.php');
-require_once('VehicleInterface.php');
+//require_once('Vehicle.php');
+//require_once('VehicleInterface.php');
 
 /**
 *Public class to represent a car
