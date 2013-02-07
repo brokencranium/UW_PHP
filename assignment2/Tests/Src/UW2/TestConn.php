@@ -11,7 +11,7 @@ class TestConnectivity extends \PHPUnit_Framework_TestCase {
      * made and disconnected for every test case
      */
     public function setUp() {
-      $this->_conn = new DbConn("localhost", "vicky","v1k4$","UW");
+      $this->_conn = new DbConn("localhost", "vicky","pwd","UW");
     }
      
 
